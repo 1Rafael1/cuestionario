@@ -57,7 +57,14 @@ pero para leerlos requieres una llave privada la cual no se la da a la gente.
 
 7.En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet
 
-Hacer uso de contraseñas 
+Hacer uso de contraseñas que sean dificiles de adivinar haciendo uso de numeros y caracteres 
+revisar la direccion de la pagina y que esta sea confiable 
+instalar actualizaciones de seguridad regularmenrte
+No instalar software que no entendemos o no confiemos.
+
+Tambien podemos no compartir nuestras contraseñas: 1. Con personas e las que no confiemos. y 2. En redes sociales.
+Redes sociales son la forma mas sencilla de encontrar las contraseñas o dirrectamente informacuon personaol de gente que no 
+cuidan de sus cosas
 
 
 8.¿Cómo funciona la búsqueda de google?
